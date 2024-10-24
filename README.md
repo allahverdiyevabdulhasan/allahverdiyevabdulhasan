@@ -1,12 +1,8 @@
 - 👋 Hi, I’m @allahverdiyevabdulhasan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-allahverdiyevabdulhasan/allahverdiyevabdulhasan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in web development, mobile apps, AI/ML technologies, and building startups.
+- 🌱 I’m currently learning Django, Flutter, React, Node.js, and DevOps, while expanding my knowledge in business development and entrepreneurship.
+- 💞️ I’m looking to collaborate on innovative web and mobile app projects, AI-powered applications, and startup ventures focused on technology and digital marketing solutions.
+- 📫 How to reach me: [info.neyman.e.t@gmail.com](mailto:info.neyman.e.t@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I founded my software company, Neyman Enterprise Technologies, in 2022. You can check out our website at [neymantech.com](https://neymantech.com) and follow us on Instagram at [neymanenterprise](https://instagram.com/neymanenterprise).
+- 🔗 Connect with me: [Instagram](https://instagram.com/abdulhasanallahverdiyev) | [Facebook](https://facebook.com/abdulhasanallahverdiyev) | [LinkedIn](https://linkedin.com/in/abdulhasanallahverdiyev)

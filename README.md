@@ -5,4 +5,7 @@
 - 📫 How to reach me: [info.neyman.e.t@gmail.com](mailto:info.neyman.e.t@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I founded my software company, Neyman Enterprise Technologies, in 2022. You can check out our website at [neymantech.com](https://neymantech.com) and follow us on Instagram at [neymanenterprise](https://instagram.com/neymanenterprise).
-- 🔗 Connect with me: [Instagram](https://instagram.com/abdulhasanallahverdiyev) | [Facebook](https://facebook.com/abdulhasanallahverdiyev) | [LinkedIn](https://linkedin.com/in/abdulhasanallahverdiyev)
+- 🔗 Connect with me: 
+  - ![Instagram](https://img.icons8.com/ios-filled/24/000000/instagram-new.png) [Instagram](https://instagram.com/abdulhasanallahverdiyev) 
+  - ![Facebook](https://img.icons8.com/ios-filled/24/000000/facebook.png) [Facebook](https://facebook.com/abdulhasanallahverdiyev) 
+  - ![LinkedIn](https://img.icons8.com/ios-filled/24/000000/linkedin.png) [LinkedIn](https://linkedin.com/in/abdulhasanallahverdiyev)

@@ -30,7 +30,7 @@
 
 ### 🔗 Connect with Me:
 - ![Instagram](https://img.icons8.com/ios-filled/24/FFFFFF/instagram-new.png) [Instagram](https://instagram.com/abdulhasanallahverdiyev)  
-- ![Facebook](https://img.icons8.com/ios-filled/24/FFFFFF/facebook.png) [Facebook](https://facebook.com/abdulhasanallahverdiyev)  
+- ![Facebook](https://img.icons8.com/ios-filled/24/FFFFFF/facebook.png) [Facebook](https://facebook.com/abdulhesen.allahverdiyev.3)  
 - ![LinkedIn](https://img.icons8.com/ios-filled/24/FFFFFF/linkedin.png) [LinkedIn](https://linkedin.com/in/abdulhasanallahverdiyev)  
 
 ---

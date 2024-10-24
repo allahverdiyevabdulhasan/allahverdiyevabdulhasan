@@ -1,11 +1,36 @@
-- 👋 Hi, I’m @allahverdiyevabdulhasan
-- 👀 I’m interested in web development, mobile apps, AI/ML technologies, and building startups.
-- 🌱 I’m currently learning Django, Flutter, React, Node.js, and DevOps, while expanding my knowledge in business development and entrepreneurship.
-- 💞️ I’m looking to collaborate on innovative web and mobile app projects, AI-powered applications, and startup ventures focused on technology and digital marketing solutions.
-- 📫 How to reach me: [info.neyman.e.t@gmail.com](mailto:info.neyman.e.t@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I founded my software company, Neyman Enterprise Technologies, in 2022. You can check out our website at [neymantech.com](https://neymantech.com) and follow us on Instagram at [neymanenterprise](https://instagram.com/neymanenterprise).
-- 🔗 Connect with me: 
-  - ![Instagram](https://img.icons8.com/ios-filled/24/000000/instagram-new.png) [Instagram](https://instagram.com/abdulhasanallahverdiyev) 
-  - ![Facebook](https://img.icons8.com/ios-filled/24/000000/facebook.png) [Facebook](https://facebook.com/abdulhasanallahverdiyev) 
-  - ![LinkedIn](https://img.icons8.com/ios-filled/24/000000/linkedin.png) [LinkedIn](https://linkedin.com/in/abdulhasanallahverdiyev)
+
+---
+
+### 👋 Hi, I’m @allahverdiyevabdulhasan
+
+- **👀 Interests:**  
+  🌐 Web development  
+  📱 Mobile apps  
+  🤖 AI/ML technologies  
+  🚀 Building startups
+
+- **🌱 Currently Learning:**  
+  🐍 Django  
+  📱 Flutter  
+  ⚛️ React  
+  🌐 Node.js  
+  🚀 DevOps  
+  📊 Business development and entrepreneurship
+
+- **💞️ Looking to Collaborate on:**  
+  💻 Innovative web and mobile app projects  
+  🧠 AI-powered applications  
+  🌟 Startup ventures focused on technology and digital marketing solutions
+
+- **📫 Reach Me:** [info.neyman.e.t@gmail.com](mailto:info.neyman.e.t@gmail.com)
+
+- **😄 Pronouns:** He/Him
+
+- **⚡ Fun Fact:** I founded my software company, Neyman Enterprise Technologies, in 2022. Check out our website: [neymantech.com](https://neymantech.com) and follow us on Instagram: [neymanenterprise](https://instagram.com/neymanenterprise).
+
+### 🔗 Connect with Me:
+- ![Instagram](https://img.icons8.com/ios-filled/24/FFFFFF/instagram-new.png) [Instagram](https://instagram.com/abdulhasanallahverdiyev)  
+- ![Facebook](https://img.icons8.com/ios-filled/24/FFFFFF/facebook.png) [Facebook](https://facebook.com/abdulhasanallahverdiyev)  
+- ![LinkedIn](https://img.icons8.com/ios-filled/24/FFFFFF/linkedin.png) [LinkedIn](https://linkedin.com/in/abdulhasanallahverdiyev)  
+
+---

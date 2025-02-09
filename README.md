@@ -22,7 +22,7 @@
   🧠 AI-powered applications  
   🌟 Startup ventures focused on technology and digital marketing solutions
 
-- **📫 Reach Me:** [info.neyman.e.t@gmail.com](mailto:info.neyman.e.t@gmail.com)
+- **📫 Reach Me:** [info.neyman.e.t@gmail.com](mailto:info@neymantech.com)
 
 - **😄 Pronouns:** He/Him
 
